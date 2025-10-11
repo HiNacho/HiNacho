@@ -1,7 +1,8 @@
 <p align="center">
-  <!-- Static Name with Laptop Icon directly beside -->
-  <span style="display: inline-flex; align-items: center; justify-content: center;">
-    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=48&duration=1&pause=10000&color=00FFC6&center=true&vCenter=true&width=400&lines=Victor+Iheanacho💻" alt="Victor Iheanacho" />
+  <!-- Static Name with Icon -->
+  <span>
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=48&duration=1&pause=10000&color=00FFC6&center=true&vCenter=true&width=600&lines=Victor+Iheanacho" alt="Victor Iheanacho" style="display:inline; vertical-align:middle;" />
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50px" style="vertical-align:middle; margin-left:-10px;" alt="Person typing on laptop" />
   </span>
 </p>
 
