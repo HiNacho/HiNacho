@@ -13,15 +13,16 @@
 </p>
 
 <p align="center">
-  <!-- GitHub Stats Badges -->
+  <!-- GitHub Stats Badges with Color Variety -->
   <a href="https://github.com/Victor-Iheanacho?tab=followers">
-    <img src="https://img.shields.io/github/followers/Victor-Iheanacho?label=Followers&style=for-the-badge&color=00FFC6" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/Victor-Iheanacho?label=Followers&style=for-the-badge&color=ff69b4" alt="GitHub Followers" />
   </a>
   <a href="https://github.com/Victor-Iheanacho">
-    <img src="https://img.shields.io/github/stars/Victor-Iheanacho?label=Stars&style=for-the-badge&color=00FFC6" alt="GitHub Stars" />
+    <img src="https://img.shields.io/github/stars/Victor-Iheanacho?label=Stars&style=for-the-badge&color=1E90FF" alt="GitHub Stars" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Victor-Iheanacho&label=Visitors&color=00FFC6&style=for-the-badge" alt="Profile Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=Victor-Iheanacho&label=Visitors&color=32CD32&style=for-the-badge" alt="Profile Visitors" />
 </p>
+
 
 
 
