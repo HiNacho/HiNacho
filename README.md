@@ -1,13 +1,13 @@
-<!-- Beautiful GitHub Header -->
-<p align="center" style="font-family: 'Poppins', sans-serif; font-size: 48px; font-weight: 600; background: linear-gradient(90deg, #00FFC6, #0066FF); -webkit-background-clip: text; color: transparent;">
-  Victor Iheanacho
+<p align="center">
+  <!-- Stylish Static Name using readme-typing-svg -->
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=48&duration=1&pause=10000&color=00FFC6&center=true&vCenter=true&width=600&lines=Victor+Iheanacho" alt="Victor Iheanacho" />
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="60px" style="vertical-align: middle; margin-left: 10px;" alt="Person typing on laptop" />
 </p>
 
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 -->
+  <!-- Typing Animation -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?lines=ML+Engineer;AI+Researcher;Anything+Data&font=JetBrains+Mono&center=true&width=440&height=45&color=00FFC6&vCenter=true&pause=1000&size=22" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?lines=ML+Engineer;AI+Researcher;Anything+Data&font=Fira+Code&center=true&width=440&height=45&color=00FFC6&vCenter=true&pause=1000&size=22" alt="Typing Animation" />
   </a>
 </p>
 
