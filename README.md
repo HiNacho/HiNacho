@@ -31,22 +31,32 @@
 </div>
 
 
+# 🥷 Victor Iheanacho  
 
+**`Anything Data (Data Scientist | AI Enthusiast | Researcher)`**
 
+Hey there! 👋 Ever wondered how data can **predict the future 🔮**, **solve business puzzles 🧩**, or **transform entire industries 🚀**?  
+That’s exactly where I come in! I’m Victor — a data ninja 🥷 who turns messy data into meaningful stories 📊.  
 
+I don’t just crunch numbers — I **decode patterns**, **train smart models**, and **build data-driven solutions** that make real-world impact 🌍.  
+With a creative mix of **Machine Learning**, **Artificial Intelligence**, and **Business Intelligence**, I bring data to life — making it speak, inspire, and drive innovation 💡.  
 
+Because to me, **data isn’t just numbers — it’s a story waiting to be told** 📖✨.  
 
+---
 
-#🥷Victor Iheanacho 
+# 💫 About Me  
 
-**`Anything Data (Data Scientist| AI enthusiast| Researcher)`**
+🌐 **Currently Building:** My personal portfolio website — a digital space to showcase my projects and expertise across **data science, AI, and cloud technologies**.  
 
-Ever wondered how data can predict the future 🤔, solve business puzzles, or even transform industries? That's where I come in! As a Data Scientist, I don't just crunch numbers- I uncover hidden patterns, build intelligent models, and turn data into powerful insights that drive real-world impact
+🤝 **Open To Collaborate On:** Any exciting project that uses data to **solve problems, uncover insights, and create impact** — from business analytics to AI innovation 💥.  
 
-With a mix of machine learning, AI and business intelligence, I specialize in making complex data tell story 📖. I believe data is more than just numbers- it's a powerful tool 🧰 for storytelling, innovation, and transformation. If you're looking for someone who can bridge the gap between data science and business impact, let's connect! 
+✈️ **Fun Side:** When I’m not deep in datasets, you’ll probably find me **traveling**, **exploring new cultures**, or **capturing moments through my lens** 🌍📸.  
 
-# 💫 About Me:
-I am currently working on my portfolio website to showcase my expertise in health data science, AI in medicine and cloud infrastructure<br><br>I am open to collaboration on health-related data projects to drive meaningful insights and advancements in medical technology<br><br>I am currently part of SPark Academy, a specialized training program equipping African experts with the skills to apply AI in medical imaging<br><br>I love travelling and exploring new places
+---
+
+> _"Data tells stories — I just help translate them."_ ✨
+
 
 ### 🧰 Tech Stack
 
