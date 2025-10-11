@@ -2,13 +2,14 @@
   Victor Iheanacho
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="60px" style="vertical-align: middle; margin-left: 10px;" alt="Person typing on laptop" />
 </p>
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
- <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=ML%20Engineer;AI%20Researcher;Anything%20Data&font=Fira%20Code&center=true&width=440&height=45&color=00bfbf&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com?lines=ML+Engineer;AI+Researcher;Anything+Data&font=Fira+Code&center=true&width=440&height=45&color=00FF7F&vCenter=true&pause=1000&size=22" alt="Typing Animation" />
   </a>
 </p>
+
 
 #🥷Victor Iheanacho 
 
