@@ -12,16 +12,24 @@
   </a>
 </p>
 
-<p align="center">
-  <!-- GitHub Stats Badges with Color Variety -->
-  <a href="https://github.com/Victor-Iheanacho?tab=followers">
-    <img src="https://img.shields.io/github/followers/Victor-Iheanacho?label=Followers&style=for-the-badge&color=ff69b4" alt="GitHub Followers" />
+<!-- 🌟 Creative GitHub Stats Section -->
+<div align="center">
+
+  <!-- Followers Box -->
+  <a href="https://github.com/Victor-Iheanacho?tab=followers" style="text-decoration:none;">
+    <img src="https://img.shields.io/github/followers/Victor-Iheanacho?label=Followers&logo=github&style=for-the-badge&color=gradient&logoColor=white&labelColor=141321&cacheSeconds=3600" alt="Followers" />
   </a>
-  <a href="https://github.com/Victor-Iheanacho">
-    <img src="https://img.shields.io/github/stars/Victor-Iheanacho?label=Stars&style=for-the-badge&color=1E90FF" alt="GitHub Stars" />
+
+  <!-- Stars Box -->
+  <a href="https://github.com/Victor-Iheanacho" style="text-decoration:none;">
+    <img src="https://img.shields.io/github/stars/Victor-Iheanacho?label=Stars&logo=starship&style=for-the-badge&color=1E90FF&labelColor=141321&logoColor=FFD700&cacheSeconds=3600" alt="Stars" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Victor-Iheanacho&label=Visitors&color=32CD32&style=for-the-badge" alt="Profile Visitors" />
-</p>
+
+  <!-- Visitors Box -->
+  <img src="https://komarev.com/ghpvc/?username=Victor-Iheanacho&label=Profile+Visitors&color=00FF99&style=for-the-badge&labelColor=141321" alt="Visitors" />
+
+</div>
+
 
 
 
