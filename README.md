@@ -1,6 +1,7 @@
 <p align="center">
-  <h1 align="center">Victor Iheanacho</h1>
-</p
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=45&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Victor+Iheanacho" alt="Victor Iheanacho" />
+</p>
+
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
  <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
