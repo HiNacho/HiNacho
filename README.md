@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=45&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Victor+Iheanacho" alt="Victor Iheanacho" />
+  <!-- Animated Tech Icon + Name -->
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" style="vertical-align:middle; margin-right:10px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=45&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=Victor+Iheanacho" alt="Victor Iheanacho" />
 </p>
-
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
  <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
