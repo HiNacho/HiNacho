@@ -1,7 +1,9 @@
 <p align="center">
-  <!-- Stylish Static Name using readme-typing-svg -->
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=48&duration=1&pause=10000&color=00FFC6&center=true&vCenter=true&width=600&lines=Victor+Iheanacho" alt="Victor Iheanacho" />
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="60px" style="vertical-align: middle; margin-left: 10px;" alt="Person typing on laptop" />
+  <!-- Static Name with Icon -->
+  <span>
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=48&duration=1&pause=10000&color=00FFC6&center=true&vCenter=true&width=600&lines=Victor+Iheanacho" alt="Victor Iheanacho" style="display:inline; vertical-align:middle;" />
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50px" style="vertical-align:middle; margin-left:-10px;" alt="Person typing on laptop" />
+  </span>
 </p>
 
 <p align="center">
@@ -10,6 +12,7 @@
     <img src="https://readme-typing-svg.demolab.com?lines=ML+Engineer;AI+Researcher;Anything+Data&font=Fira+Code&center=true&width=440&height=45&color=00FFC6&vCenter=true&pause=1000&size=22" alt="Typing Animation" />
   </a>
 </p>
+
 
 
 
