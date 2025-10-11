@@ -1,12 +1,8 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Victor Iheanacho" />Victor Iheanacho</a>
-</p>
-
-<p align="center">
+  <h1 align="center">Victor Iheanacho</h1>
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=ML%20Engineer;AI%20Researcher;Anything%20Data&font=Fira%20Code&center=true&width=440&height=45&color=00bfbf&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=ML%20Engineer;AI%20Researcher;Anything%20Data&font=Fira%20Code&center=true&width=440&height=45&color=00FF00&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
