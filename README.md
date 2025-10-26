@@ -47,7 +47,7 @@ Because to me, **data isn’t just numbers — it’s a story waiting to be told
 
 # 💫 About Me  
 
-🌐 **Currently Building:** My personal portfolio website — a digital space to showcase my projects and expertise across **data science, AI, and cloud technologies**.  
+🌐 **Currently Building:** A model to extract time series data from Electrocardiogram (ECG) images**.  
 
 🤝 **Open To Collaborate On:** Any exciting project that uses data to **solve problems, uncover insights, and create impact** — from business analytics to AI innovation 💥.  
 
